@@ -45,6 +45,9 @@ Deliverables:
 3. Automated Tests: End-to-end tests using Cypress or any framework you prefer.
 4. Submit your project by pushing your changes to your GitHub fork.
 
+Test Plan - [[Test Plan] Item Manager WebApp.docx](https://github.com/user-attachments/files/17344366/Test.Plan.Item.Manager.WebApp.docx)
+
+
 You have 2 days to submit your work.
 
 Good luck, and we look forward to reviewing your submission!
