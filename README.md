@@ -46,6 +46,9 @@ Deliverables:
 4. Submit your project by pushing your changes to your GitHub fork.
 
 Test Plan - [[Test Plan] Item Manager WebApp.docx](https://github.com/user-attachments/files/17344366/Test.Plan.Item.Manager.WebApp.docx)
+Test Cases - [Test Cases - Item Manager WebApp.xlsx](https://github.com/user-attachments/files/17345783/Test.Cases.-.Item.Manager.WebApp.xlsx)
+Bug/Enhancement Report - [Bug:Enhancement Report.docx](https://github.com/user-attachments/files/17345795/Bug.Enhancement.Report.docx)
+
 
 
 You have 2 days to submit your work.
